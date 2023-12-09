@@ -16,23 +16,8 @@ public class ClothInteractionController : MonoBehaviour
         
     }
 
-    public void OnChooseTool()
+    public void OnResetState()
     {
         
     }
-
-    public void OnResetCloth()
-    {
-        
-    }
-
-    public void OnResetPose()
-    {
-        
-    }
-
-    // public void OnResetPose()
-    // {
-    //     
-    // }
 }
