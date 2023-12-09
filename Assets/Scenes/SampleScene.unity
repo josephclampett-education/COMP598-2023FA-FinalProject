@@ -5898,31 +5898,31 @@ MonoBehaviour:
   - {fileID: 1422220452}
   - {fileID: 2120620509}
   - {fileID: 1115087670}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 869543003}
+  - {fileID: 1197490645}
+  - {fileID: 1663672288}
+  - {fileID: 1671934970}
+  - {fileID: 1427154881}
+  - {fileID: 1653021744}
+  - {fileID: 1896175332}
+  - {fileID: 788182285}
+  - {fileID: 365167710}
+  - {fileID: 550071957}
+  - {fileID: 255192781}
   capsuleColliders:
   - {fileID: 1676925898}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 1018931591}
+  - {fileID: 1359708239}
+  - {fileID: 1698902221}
+  - {fileID: 1240780075}
+  - {fileID: 977716201}
+  - {fileID: 2088661958}
+  - {fileID: 19840455}
+  - {fileID: 1606981066}
+  - {fileID: 1140768760}
+  - {fileID: 523590715}
+  - {fileID: 716315501}
+  - {fileID: 1222551047}
   cubeColliders: []
   thickness: 0
   offsetFront: 0
