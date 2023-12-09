@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class ClothInteractionController : MonoBehaviour
 {
@@ -18,6 +19,6 @@ public class ClothInteractionController : MonoBehaviour
 
     public void OnResetState()
     {
-        
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }
